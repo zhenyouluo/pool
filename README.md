@@ -1,5 +1,5 @@
 About
------
+=====
 Pool is a small and simple memory allocator but definitely not a malloc() replacement! As the name implies it uses a pool wherein it allocates memory if you request for it.
 
 The most experienced programmers probably have already a similar library in there arsenal. And this is mine that I use in most of my programs and I'm releasing it to the public.
@@ -30,5 +30,7 @@ Cons
 Contact
 -------
 Twitter: http://twitter.com/abitvin
+
 Github: http://github.com/abitvin
+
 E-mail: vin [at] ingine [dot] nl
